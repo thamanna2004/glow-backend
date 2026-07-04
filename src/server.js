@@ -45,7 +45,7 @@ app.use(
                 "http://127.0.0.1:5173",
                 "http://localhost:5174",
                 "http://127.0.0.1:5174",
-              "https://glow-frontend-xi.vercel.app/",
+              "https://glow-frontend-xi.vercel.app",
             ];
             const isLocalDev =
                 !origin ||
